@@ -95,7 +95,7 @@ If you installed the previous update that doesn't allow selecting devices, you n
 
 ### Config.json Settings
 
-Example of all settings. Not all ssettings are required. Read the breakdown below.
+Example of all settings. Not all settings are required. Read the breakdown below.
 ```
 	{
 	   "platform": "homebridge-smartthings.SmartThings",
